@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\cobaa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C42178E4-3BE2-4ADD-8100-368B4E93562F}|cobaa\\cobaa.csproj|C:\\Users\\DELL\\source\\repos\\cobaa\\cobaa\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42178E4-3BE2-4ADD-8100-368B4E93562F}|cobaa\\cobaa.csproj|solutionrelative:cobaa\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42178E4-3BE2-4ADD-8100-368B4E93562F}|cobaa\\cobaa.csproj|c:\\users\\dell\\source\\repos\\cobaa\\cobaa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42178E4-3BE2-4ADD-8100-368B4E93562F}|cobaa\\cobaa.csproj|solutionrelative:cobaa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42178E4-3BE2-4ADD-8100-368B4E93562F}|cobaa\\cobaa.csproj|C:\\Users\\DELL\\source\\repos\\cobaa\\cobaa\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C42178E4-3BE2-4ADD-8100-368B4E93562F}|cobaa\\cobaa.csproj|solutionrelative:cobaa\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42178E4-3BE2-4ADD-8100-368B4E93562F}|cobaa\\cobaa.csproj|C:\\Users\\DELL\\source\\repos\\cobaa\\cobaa\\editprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C42178E4-3BE2-4ADD-8100-368B4E93562F}|cobaa\\cobaa.csproj|solutionrelative:cobaa\\editprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42178E4-3BE2-4ADD-8100-368B4E93562F}|cobaa\\cobaa.csproj|C:\\Users\\DELL\\source\\repos\\cobaa\\cobaa\\editprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42178E4-3BE2-4ADD-8100-368B4E93562F}|cobaa\\cobaa.csproj|solutionrelative:cobaa\\editprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42178E4-3BE2-4ADD-8100-368B4E93562F}|cobaa\\cobaa.csproj|C:\\Users\\DELL\\source\\repos\\cobaa\\cobaa\\regis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C42178E4-3BE2-4ADD-8100-368B4E93562F}|cobaa\\cobaa.csproj|solutionrelative:cobaa\\regis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|cobaa||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42178E4-3BE2-4ADD-8100-368B4E93562F}|cobaa\\cobaa.csproj|C:\\Users\\DELL\\source\\repos\\cobaa\\cobaa\\welcome.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42178E4-3BE2-4ADD-8100-368B4E93562F}|cobaa\\cobaa.csproj|solutionrelative:cobaa\\welcome.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42178E4-3BE2-4ADD-8100-368B4E93562F}|cobaa\\cobaa.csproj|C:\\Users\\DELL\\source\\repos\\cobaa\\cobaa\\regis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42178E4-3BE2-4ADD-8100-368B4E93562F}|cobaa\\cobaa.csproj|solutionrelative:cobaa\\regis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42178E4-3BE2-4ADD-8100-368B4E93562F}|cobaa\\cobaa.csproj|C:\\Users\\DELL\\source\\repos\\cobaa\\cobaa\\editprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C42178E4-3BE2-4ADD-8100-368B4E93562F}|cobaa\\cobaa.csproj|solutionrelative:cobaa\\editprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C42178E4-3BE2-4ADD-8100-368B4E93562F}|cobaa\\cobaa.csproj|c:\\users\\dell\\source\\repos\\cobaa\\cobaa\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\cobaa\\cobaa\\Program.cs",
+              "RelativeDocumentMoniker": "cobaa\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\cobaa\\cobaa\\Program.cs",
+              "RelativeToolTip": "cobaa\\Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwCwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T01:33:17.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Welcome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\cobaa\\cobaa\\Welcome.cs",
+              "RelativeDocumentMoniker": "cobaa\\Welcome.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\cobaa\\cobaa\\Welcome.cs [Design]",
+              "RelativeToolTip": "cobaa\\Welcome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:17:25.885Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Editprofile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\cobaa\\cobaa\\Editprofile.cs",
+              "RelativeDocumentMoniker": "cobaa\\Editprofile.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\cobaa\\cobaa\\Editprofile.cs [Design]",
+              "RelativeToolTip": "cobaa\\Editprofile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T00:32:29.167Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Welcome.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\cobaa\\cobaa\\Welcome.cs",
+              "RelativeDocumentMoniker": "cobaa\\Welcome.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\cobaa\\cobaa\\Welcome.cs",
+              "RelativeToolTip": "cobaa\\Welcome.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAmwCcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T05:24:46.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Editprofile.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\cobaa\\cobaa\\Editprofile.Designer.cs",
+              "RelativeDocumentMoniker": "cobaa\\Editprofile.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\cobaa\\cobaa\\Editprofile.Designer.cs",
+              "RelativeToolTip": "cobaa\\Editprofile.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T05:24:45.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Regis.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\cobaa\\cobaa\\Regis.cs",
+              "RelativeDocumentMoniker": "cobaa\\Regis.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\cobaa\\cobaa\\Regis.cs [Design]",
+              "RelativeToolTip": "cobaa\\Regis.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T00:18:03.65Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "cobaa",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\cobaa\\cobaa\\cobaa.csproj",
+              "RelativeDocumentMoniker": "cobaa\\cobaa.csproj",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\cobaa\\cobaa\\cobaa.csproj",
+              "RelativeToolTip": "cobaa\\cobaa.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-10T06:04:42.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Regis.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\cobaa\\cobaa\\Regis.cs",
+              "RelativeDocumentMoniker": "cobaa\\Regis.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\cobaa\\cobaa\\Regis.cs",
+              "RelativeToolTip": "cobaa\\Regis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T05:24:46.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Welcome.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\cobaa\\cobaa\\Welcome.Designer.cs",
+              "RelativeDocumentMoniker": "cobaa\\Welcome.Designer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\cobaa\\cobaa\\Welcome.Designer.cs",
+              "RelativeToolTip": "cobaa\\Welcome.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T05:24:46.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Editprofile.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\cobaa\\cobaa\\Editprofile.cs",
+              "RelativeDocumentMoniker": "cobaa\\Editprofile.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\cobaa\\cobaa\\Editprofile.cs",
+              "RelativeToolTip": "cobaa\\Editprofile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAApwBUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T00:34:56.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
